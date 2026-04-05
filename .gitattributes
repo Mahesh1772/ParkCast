@@ -8,3 +8,6 @@ data/carpark_july_2024.csv filter=lfs diff=lfs merge=lfs -text
 data/comprehensive_weather_data.csv filter=lfs diff=lfs merge=lfs -text
 data/df_collection.json filter=lfs diff=lfs merge=lfs -text
 reports/4211[[:space:]]Presentation[[:space:]]Slides.pdf filter=lfs diff=lfs merge=lfs -text
+HDBCarparkInformation.csv filter=lfs diff=lfs merge=lfs -text
+data/HDBCarparkInformation.csv filter=lfs diff=lfs merge=lfs -text
+reports/EE4211[[:space:]]Data[[:space:]]Science[[:space:]]for[[:space:]]IoT[[:space:]]-[[:space:]]Group[[:space:]]Project[[:space:]]Report.pdf filter=lfs diff=lfs merge=lfs -text
